@@ -9,7 +9,7 @@
 
 - **Nombre:** BUJALDON DUARTE, Octavio Carlos
 - **Matricula:** 101201
-- **Facultad Regional:** Mendoza
+- **Facultad Regional:** Mendoza.
 
 ## 📂 Descripción de la carpeta
 
