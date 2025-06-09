@@ -15,4 +15,4 @@
 
 En el siguiente Repositorio se encuentra desarrollado, el Trabajo Integrador de Programacion I, sobre Estructuras de Datos Avanzadas: Arboles.
 El caso presentado se realizo un Arbol de Directorios.
-# Comprendimos en detalle la definición y los componentes fundamentales de un árbol, como los nodos, raíz, padres, hijos y hojas, así como la importancia de la recursividad para el desarrollo y la visualización de este tipo de estructura jerárquica.
+- Comprendimos en detalle la definición y los componentes fundamentales de un árbol, como los nodos, raíz, padres, hijos y hojas, así como la importancia de la recursividad para el desarrollo y la visualización de este tipo de estructura jerárquica.
